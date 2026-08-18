@@ -40,7 +40,7 @@ src/
     storage.js                # localStorage load/save helpers
 ```
 
-## Setup & Run
+
 ## Setup & Run
 
 ### Prerequisites
